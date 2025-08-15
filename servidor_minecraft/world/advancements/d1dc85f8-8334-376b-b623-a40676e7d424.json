@@ -41,11 +41,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "husk": "2025-08-15 22:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-08-15 21:36:42 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "husk": "2025-08-15 22:05:32 +0000"
+    },
+    "done": false
   },
   "minecraft:story/root": {
     "criteria": {
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2025-08-15 21:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-15 22:05:32 +0000"
     },
     "done": true
   },
