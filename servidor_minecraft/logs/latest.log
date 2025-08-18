@@ -454,3 +454,6 @@ Traveler's Backpack: Requires version 1.0.35 but client has 1.0.32.
 [16:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> eé´´e
 [16:12:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was shot by Army Soldier
 [16:12:46] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Stone Age]
+[16:16:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[16:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
