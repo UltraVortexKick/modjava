@@ -465,3 +465,38 @@ Traveler's Backpack: Requires version 1.0.35 but client has 1.0.32.
 [16:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
 [16:28:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/245965, l='world', x=-87.15, y=67.00, z=451.94] connected. Sending ping
 [16:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Getting an Upgrade]
+[16:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> one
+[16:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> XDDD
+[16:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick hit the ground too hard
+[16:38:11] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:40:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:40:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> XDDD
+[16:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[16:40:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:41:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:41:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:41:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:41:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[16:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[16:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
+[16:41:54] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[16:41:54] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,FML@8.0.99.99,obfuscate@0.4.2,cgm@0.15.3,srparasites@1.9.21,llibrary@1.7.20,creativecoredummy@1.0.0,creativecore@1.10.0,waila@1.8.26,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2860,techguns_core@1.12.2-1.0,simpletomb@1.12.2-1.0.0,playerrevive@1.0,mcp@9.42,netherite1_12_2@1.1,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,overlast@0.0.2,techguns@2.0.2.0,travelersbackpack@1.0.35
+[16:41:54] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[16:41:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:41:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:53241] logged in with entity id 518246 at (13.298933733816174, 66.0, 404.6799487790136)
+[16:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[16:41:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/518246, l='world', x=13.30, y=66.00, z=404.68] connected. Sending ping
+[16:42:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 6.33964314531191,-2.231523797587016,-8.691874163634338
+[16:42:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 6.279792788537626,-2.231523797587016,-8.68536896044418
+[16:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:44:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:48:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:48:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Acquire Hardware]
+[16:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Isn't It Iron Pick]
+[16:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Suit Up]

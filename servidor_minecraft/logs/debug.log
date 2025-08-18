@@ -11767,3 +11767,77 @@ Traveler's Backpack: Requires version 1.0.35 but client has 1.0.32.
 [16:32:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:33:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:33:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:34:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:35:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:36:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:36:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> one
+[16:37:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> XDDD
+[16:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick hit the ground too hard
+[16:38:11] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:38:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:39:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:39:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:40:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:40:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:40:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> XDDD
+[16:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[16:40:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:41:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:41:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved wrongly!
+[16:41:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:41:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:41:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[16:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[16:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
+[16:41:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:41:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:41:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:41:54] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:41:54] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[16:41:54] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:23 mods->FMLHandshakeServerState$2:HELLO
+[16:41:54] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,FML@8.0.99.99,obfuscate@0.4.2,cgm@0.15.3,srparasites@1.9.21,llibrary@1.7.20,creativecoredummy@1.0.0,creativecore@1.10.0,waila@1.8.26,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2860,techguns_core@1.12.2-1.0,simpletomb@1.12.2-1.0.0,playerrevive@1.0,mcp@9.42,netherite1_12_2@1.1,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,overlast@0.0.2,techguns@2.0.2.0,travelersbackpack@1.0.35
+[16:41:54] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[16:41:54] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[16:41:54] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:41:54] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[16:41:55] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:41:55] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[16:41:55] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:41:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:41:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:53241] logged in with entity id 518246 at (13.298933733816174, 66.0, 404.6799487790136)
+[16:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[16:41:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/518246, l='world', x=13.30, y=66.00, z=404.68] connected. Sending ping
+[16:41:55] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:42:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:42:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 6.33964314531191,-2.231523797587016,-8.691874163634338
+[16:42:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 6.279792788537626,-2.231523797587016,-8.68536896044418
+[16:42:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:43:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:44:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:44:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:45:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:45:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:46:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:47:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:48:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:48:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:48:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:48:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Acquire Hardware]
+[16:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Isn't It Iron Pick]
+[16:49:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:50:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:51:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:51:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:52:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Suit Up]
+[16:53:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:54:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
