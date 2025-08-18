@@ -11734,3 +11734,36 @@ Traveler's Backpack: Requires version 1.0.35 but client has 1.0.32.
 [16:22:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:23:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:24:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:28:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:28:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:28:32] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:23 mods->FMLHandshakeServerState$2:HELLO
+[16:28:32] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,FML@8.0.99.99,obfuscate@0.4.2,cgm@0.15.3,srparasites@1.9.21,llibrary@1.7.20,creativecoredummy@1.0.0,creativecore@1.10.0,waila@1.8.26,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2860,techguns_core@1.12.2-1.0,simpletomb@1.12.2-1.0.0,playerrevive@1.0,mcp@9.42,netherite1_12_2@1.1,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,overlast@0.0.2,techguns@2.0.2.0,travelersbackpack@1.0.35
+[16:28:32] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:28:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:28:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:33693] logged in with entity id 245965 at (-87.15266450559085, 67.0, 451.9373685257805)
+[16:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[16:28:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/245965, l='world', x=-87.15, y=67.00, z=451.94] connected. Sending ping
+[16:28:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:28:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Getting an Upgrade]
+[16:32:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:33:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:33:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

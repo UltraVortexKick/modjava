@@ -136,6 +136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-18 16:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-18 16:16:20 +0000"
@@ -271,6 +277,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-08-18 16:32:20 +0000",
       "beef": "2025-08-15 22:48:43 +0000",
       "apple": "2025-08-15 22:49:45 +0000"
     },
@@ -303,6 +310,12 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_planks": "2025-08-15 21:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-18 16:31:38 +0000"
     },
     "done": true
   },
