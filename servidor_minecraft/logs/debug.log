@@ -11819,3 +11819,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [16:10:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:10:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
 [16:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[16:11:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:12:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:12:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:13:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:14:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:14:35] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:14:35] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:14:35] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:14:35] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:14:35] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[16:14:35] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ModList:23 mods->FMLHandshakeServerState$2:HELLO
+[16:14:35] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,FML@8.0.99.99,obfuscate@0.4.2,cgm@0.15.3,srparasites@1.9.21,llibrary@1.7.20,creativecoredummy@1.0.0,creativecore@1.10.0,waila@1.8.26,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2860,techguns_core@1.12.2-1.0,simpletomb@1.12.2-1.0.0,playerrevive@1.0,mcp@9.42,netherite1_12_2@1.1,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,overlast@0.0.2,techguns@2.0.2.0,travelersbackpack@1.0.35
+[16:14:35] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[16:14:35] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: WAITINGCACK
+[16:14:36] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:14:36] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: COMPLETE
+[16:14:36] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:14:36] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: DONE
+[16:14:36] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:14:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:14:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:49701] logged in with entity id 846073 at (-60.63057519826479, 100.0, 432.91682288892343)
+[16:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[16:14:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/846073, l='world', x=-60.63, y=100.00, z=432.92] connected. Sending ping
+[16:14:36] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:15:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:15:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:15:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:16:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:17:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:18:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:18:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:19:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:20:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:21:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
