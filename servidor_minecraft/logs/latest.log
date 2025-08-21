@@ -337,3 +337,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [15:53:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/458286, l='world', x=-33.19, y=100.00, z=424.89] connected. Sending ping
 [15:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
 [15:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:10:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[16:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
