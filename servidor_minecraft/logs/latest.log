@@ -348,3 +348,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [16:14:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/846073, l='world', x=-60.63, y=100.00, z=432.92] connected. Sending ping
 [16:15:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
 [16:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[16:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:27:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
+[16:27:42] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
+[16:30:03] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[16:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]

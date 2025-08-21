@@ -11854,3 +11854,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [16:19:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:20:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:21:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:21:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:23:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:27:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
+[16:27:42] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:27:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:30:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
+[16:30:03] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[16:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[16:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[16:30:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
