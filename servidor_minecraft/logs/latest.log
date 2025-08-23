@@ -300,3 +300,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:06:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.940s)! For help, type "help" or "?"
 [02:06:49] [Server thread/INFO] [FML]: Unloading dimension -1
 [02:06:49] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:17:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:17:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:17:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:17:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:17:01] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:17:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:17:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:17:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
