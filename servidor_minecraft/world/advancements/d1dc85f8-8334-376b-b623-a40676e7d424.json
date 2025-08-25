@@ -685,7 +685,8 @@
       "zombie": "2025-08-23 04:09:53 +0000",
       "witch": "2025-08-21 15:32:59 +0000",
       "spider": "2025-08-21 16:02:18 +0000",
-      "creeper": "2025-08-21 15:48:47 +0000"
+      "creeper": "2025-08-21 15:48:47 +0000",
+      "enderman": "2025-08-25 03:09:21 +0000"
     },
     "done": false
   },
@@ -722,6 +723,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-25 02:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 03:05:04 +0000"
     },
     "done": true
   },
@@ -776,6 +783,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-25 02:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 03:05:04 +0000"
     },
     "done": true
   },
@@ -1067,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-08-25 03:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-08-25 02:23:17 +0000"
@@ -1082,6 +1101,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-18 16:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 03:05:04 +0000"
     },
     "done": true
   },
@@ -1194,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 03:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-18 16:16:20 +0000"
@@ -1257,6 +1288,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-23 04:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 03:05:04 +0000"
     },
     "done": true
   },
