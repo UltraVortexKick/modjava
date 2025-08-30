@@ -14537,3 +14537,434 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
  min max mob 4 6
  loop 103
  fail 0
+[04:05:52] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 646311
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1160
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:05:53] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 646311
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1180
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:05:54] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 646311
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1200
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:06:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:06:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:39] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 40
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:41] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 60
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:42] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 80
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:43] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 100
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 120
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:45] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 140
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:46] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 160
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:47] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 180
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:48] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 200
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 220
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:50] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 240
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:51] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 260
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:52] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 280
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:07:53] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 714129
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 300
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:08:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@68d7c125)
+[04:09:03] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[04:09:03] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:09:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[04:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick withered away
+[04:10:31] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[04:10:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 9.359082727025068,-1.0,-4.562379708198307
+[04:11:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[04:13:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick hit the ground too hard
+[04:13:46] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[04:14:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:52] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[04:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[04:15:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
+[04:15:07] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[04:15:28] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:15:31] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[04:15:32] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[04:15:37] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[04:15:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 240
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:15:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 320
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:15:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
