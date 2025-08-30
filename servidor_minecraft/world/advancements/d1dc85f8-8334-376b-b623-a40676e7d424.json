@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advadaptivearmor": {
+    "criteria": {
+      "advadaptivearmor": "2025-08-30 03:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-25 02:45:49 +0000"
@@ -782,6 +788,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advevolutionarmor": {
+    "criteria": {
+      "advevolutionarmor": "2025-08-30 03:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-25 02:45:49 +0000"
@@ -845,6 +857,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-23 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedarmor": {
+    "criteria": {
+      "advtwistedarmor": "2025-08-30 03:47:07 +0000"
     },
     "done": true
   },
@@ -1112,6 +1130,12 @@
     },
     "done": true
   },
+  "nocubessrpsurvival:advwalkingeffigy": {
+    "criteria": {
+      "advwalkingeffigy": "2025-08-30 03:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-25 02:39:21 +0000"
@@ -1196,6 +1220,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advunfinishedflamethrower": {
+    "criteria": {
+      "advunfinishedflamethrower": "2025-08-30 03:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-23 02:43:48 +0000"
@@ -1223,6 +1253,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-15 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2025-08-30 03:51:19 +0000"
     },
     "done": true
   },
@@ -1281,6 +1317,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2025-08-30 03:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-18 16:16:20 +0000"
@@ -1308,6 +1350,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2025-08-18 16:46:37 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advsliceanddice": {
+    "criteria": {
+      "advsliceanddice": "2025-08-30 03:50:45 +0000"
     },
     "done": true
   },
@@ -1488,6 +1536,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-23 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advinsatiablehunger": {
+    "criteria": {
+      "advinsatiablehunger": "2025-08-30 03:50:47 +0000"
     },
     "done": true
   },
