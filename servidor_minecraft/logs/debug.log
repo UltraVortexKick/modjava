@@ -14968,3 +14968,190 @@ java.lang.NullPointerException: null
  loop 103
  fail 0
 [04:15:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:57] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 1
+ danger 155
+ delay 0
+ total life 1300
+ current life 580
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:16:14] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 4
+ danger 166
+ delay 0
+ total life 1600
+ current life 920
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:16:16] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 4
+ danger 166
+ delay 0
+ total life 1600
+ current life 960
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:16:20] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 897766
+ scent state 1
+ active 4
+ danger 166
+ delay 0
+ total life 1600
+ current life 1040
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:16:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:01] [Server thread/INFO] [OverLast]: Saving data to disk.
+[04:17:01] [Server thread/INFO] [OverLast]: Rain is on the way in 3388 ticks.
+[04:17:01] [Server thread/INFO] [OverLast]: It's raining now. It's true that it is thundering. It'll last for 15335 ticks.
+[04:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
+[04:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: {carzy lanugh} Now, the whole world is on fire hahahaha...... {crazy laugh}
+[04:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
+[04:17:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:18:45] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:18:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:51] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 140
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:19:19] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 700
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:19:20] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 720
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:19:25] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 820
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:19:26] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 840
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:19:29] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 980170
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 900
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:19:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:21:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:21:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:23:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:24:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:24:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:25:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
