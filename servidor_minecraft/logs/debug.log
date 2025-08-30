@@ -16208,3 +16208,690 @@ java.lang.NullPointerException: null
  min max mob 4 6
  loop 103
  fail 0
+[04:46:28] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:46:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:47:06] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 760
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:07] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 780
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:08] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 800
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:09] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 820
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:10] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 840
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:11] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 860
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:12] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 880
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:13] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 900
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:14] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 920
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:15] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 940
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:16] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 960
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:17] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 980
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:18] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1000
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:47:19] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1020
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:20] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1040
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:21] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1060
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:22] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1080
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:23] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1100
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:24] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1120
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:25] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1140
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:26] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1160
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:27] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1180
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:28] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1678807
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 1200
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:30] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:31] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:32] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 40
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:37] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 140
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:39] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 180
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 200
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:47:41] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1703991
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 220
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:32] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1731242
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:34] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1732154
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:36] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1732951
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1733703
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1734566
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:42] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1735425
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1736487
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:46] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1737386
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:48] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1738252
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:50] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1739076
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:52] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1739888
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:54] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1740712
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:56] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1741535
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:48:58] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1742350
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:49:00] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1743476
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:49:02] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1744477
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:49:03] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1744477
+ scent state 1
+ active 0
+ danger 150
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 5
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:49:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[04:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[04:49:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
