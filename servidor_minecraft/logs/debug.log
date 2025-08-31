@@ -13708,3 +13708,138 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[23:28:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[23:29:33] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:29:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:29:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
+[23:29:59] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[23:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
+[23:30:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:30:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
+[23:30:14] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
+[23:30:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
+[23:31:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:parrot that already exists with UUID e0103505-62c7-402d-970d-ee50925bf078
+[23:31:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:31:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:parrot that already exists with UUID e0103505-62c7-402d-970d-ee50925bf078
+[23:31:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:32:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:32:45] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[23:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
+[23:32:48] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
+[23:33:11] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[23:33:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[23:34:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[23:34:18] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:34:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Light Bomber
+[23:35:17] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[23:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Zombie Miner
+[23:35:22] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
+[23:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[23:35:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:15] [Server thread/INFO] [OverLast]: Saving data to disk.
+[23:36:15] [Server thread/INFO] [OverLast]: Rain is on the way in 8243 ticks.
+[23:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 2.
+[23:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Turn off the radio ? It can't be closed! Follow the electromagnetic wave and beg me to close!
+[23:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
+[23:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[23:36:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Light Bomber
+[23:36:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:37:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[23:37:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
+[23:37:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[23:37:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:38:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
