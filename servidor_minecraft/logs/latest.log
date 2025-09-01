@@ -354,3 +354,803 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [15:34:53] [Server thread/INFO] [OverLast]: Saving data to disk.
 [15:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 1.
 [15:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[15:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:43:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:43:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[15:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
+[15:47:34] [Server thread/INFO] [OverLast]: Saving data to disk.
+[15:47:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 2.
+[15:47:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[15:47:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[15:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[15:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[15:48:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
+[15:48:02] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[15:48:26] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:27] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:28] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 40
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:29] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 60
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:30] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 80
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:31] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 100
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:32] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 120
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:33] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 140
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:34] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 160
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:35] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 180
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:36] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 200
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:37] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 220
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 240
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:39] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 260
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 280
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:41] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 300
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:42] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 320
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:43] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 340
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 360
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:45] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 380
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:46] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 400
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:47] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 420
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:48] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 440
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:49] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 460
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:50] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 480
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:51] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 500
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:52] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 520
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:53] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 540
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:54] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 560
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:55] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 580
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:56] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 600
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:57] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 620
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:58] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 640
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:48:59] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 660
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:00] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 680
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:01] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 700
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:02] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 720
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:03] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 740
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:04] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 760
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:05] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 780
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:06] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 800
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:07] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 820
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:08] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 840
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:09] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 860
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:10] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 880
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:11] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 900
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:12] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 920
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:13] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 926986
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 940
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[15:49:28] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 977779
+ scent state 1
+ active 0
+ danger 360
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 7
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
