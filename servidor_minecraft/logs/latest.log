@@ -365,3 +365,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
 [01:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Five more minutes to sleep, five more minutes, five more minutes, five more minutes, five more minutes, five more minutes.
 [01:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter is also called the parasite season, but we are ready for those thing, right?
+[01:52:05] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:52:05] [Server thread/INFO] [OverLast]: Rain is on the way in 6915 ticks.
+[01:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
+[01:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[01:53:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[01:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
