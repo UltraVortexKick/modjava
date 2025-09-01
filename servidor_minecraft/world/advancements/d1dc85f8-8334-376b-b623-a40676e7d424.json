@@ -1345,6 +1345,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-08-21 16:34:48 +0000",
+      "beaches": "2025-09-01 03:07:27 +0000",
       "forest_hills": "2025-08-15 22:49:47 +0000",
       "jungle_hills": "2025-08-15 21:32:06 +0000",
       "jungle_edge": "2025-08-15 21:37:31 +0000",
