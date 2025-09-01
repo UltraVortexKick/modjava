@@ -1042,6 +1042,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advplasmatorch": {
+    "criteria": {
+      "advplasmatorch": "2025-09-01 02:51:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2025-08-23 23:08:02 +0000"
@@ -1231,6 +1237,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-08-23 03:28:03 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advgorebow": {
+    "criteria": {
+      "advgorebow": "2025-09-01 02:50:50 +0000"
     },
     "done": true
   },
