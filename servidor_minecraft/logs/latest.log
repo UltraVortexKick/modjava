@@ -1,568 +1,5 @@
-[23:18:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:18:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:18:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:18:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[23:18:52] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[23:18:54] [main/INFO] [FML]: Searching /workspaces/modjava/servidor_minecraft/./mods for mods
-[23:18:54] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.jar
-[23:18:54] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[23:18:54] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[23:18:54] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[23:18:54] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[23:18:54] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
-[23:18:54] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[23:18:54] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[23:18:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:18:54] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[23:18:54] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/modjava/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.10.jar Service=LaunchWrapper Env=SERVER
-[23:18:54] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[23:18:54] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[23:18:54] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[23:18:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:18:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:18:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:18:54] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[23:18:54] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[23:18:54] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[23:18:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
-[23:18:55] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
-[23:18:55] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[23:18:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:18:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:18:55] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[23:18:55] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1473b8c0
-[23:18:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:18:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:18:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:18:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:18:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:18:56] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[23:18:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:18:56] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[23:18:56] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[23:18:57] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[23:19:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[23:19:00] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[23:19:00] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[23:19:00] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[23:19:00] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[23:19:00] [Server thread/INFO] [FML]: Searching /workspaces/modjava/servidor_minecraft/./mods for mods
-[23:19:01] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10
-[23:19:02] [Server thread/WARN] [FML]: Mod simpletomb is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.0
-[23:19:02] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
-[23:19:02] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[23:19:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, techguns_core, securitycraft, carryon, creativecore, cgm, waila, jei, journeymap, netherite1_12_2, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, simpletomb, srparasites, techguns, travelersbackpack, llibrary] at CLIENT
-[23:19:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, techguns_core, securitycraft, carryon, creativecore, cgm, waila, jei, journeymap, netherite1_12_2, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, simpletomb, srparasites, techguns, travelersbackpack, llibrary] at SERVER
-[23:19:03] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[23:19:03] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[23:19:04] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[23:19:04] [Server thread/INFO] [FML]: Found 1482 ObjectHolder annotations
-[23:19:04] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[23:19:04] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[23:19:04] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[23:19:04] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[23:19:04] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[23:19:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[23:19:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[23:19:05] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[23:19:05] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[23:19:05] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[23:19:05] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[23:19:05] [Forge Version Check/INFO] [forge.VersionCheck]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/tombstone-fork/trunk/1.12/update.json
-[23:19:05] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[23:19:06] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[23:19:06] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[23:19:06] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[23:19:06] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
-[23:19:06] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
-[23:19:06] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[23:19:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `simpletomb:` for name `tombstone`, expected `simpletomb`. This could be a intended override, but in most cases indicates a broken mod.
-[23:19:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[23:19:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[23:19:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[23:19:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[23:19:06] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[23:19:06] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[23:19:07] [Server thread/INFO] [FML]: Applying holder lookups
-[23:19:07] [Server thread/INFO] [FML]: Holder lookups applied
-[23:19:07] [Server thread/INFO] [FML]: Applying holder lookups
-[23:19:07] [Server thread/INFO] [FML]: Holder lookups applied
-[23:19:07] [Server thread/INFO] [FML]: Applying holder lookups
-[23:19:07] [Server thread/INFO] [FML]: Holder lookups applied
-[23:19:07] [Server thread/INFO] [FML]: Applying holder lookups
-[23:19:07] [Server thread/INFO] [FML]: Holder lookups applied
-[23:19:07] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:19:07] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[23:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[23:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[23:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[23:19:07] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[23:19:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:19:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[23:19:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:19:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:19:08] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
-com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$getIngredient$0(CraftingHelper.java:152) ~[CraftingHelper.class:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:150) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:19:08] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
-com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:19:08] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
-com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:19:08] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
-com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:19:08] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
-com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:19:08] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
-com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:19:08] [Server thread/INFO] [FML]: Applying holder lookups
-[23:19:08] [Server thread/INFO] [FML]: Holder lookups applied
-[23:19:08] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[23:19:08] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:19:08] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:19:08] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[23:19:08] [Server thread/INFO] [Waila]: Starting Waila...
-[23:19:08] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[23:19:09] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[23:19:09] [Server thread/INFO] [Waila]: Registering plugins...
-[23:19:09] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[23:19:09] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[23:19:09] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[23:19:09] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
-[23:19:09] [Server thread/INFO] [Waila]: Starting Waila took 33.03 ms
-[23:19:09] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 25 mods
-[23:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[23:19:09] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[23:19:09] [Server thread/INFO] [FML]: Applying holder lookups
-[23:19:09] [Server thread/INFO] [FML]: Holder lookups applied
-[23:19:09] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7c5bec3c)
-[23:19:09] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 549 advancements
-[23:19:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7c5bec3c)
-[23:19:10] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7c5bec3c)
-[23:19:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[23:19:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 55%
-[23:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.415s)! For help, type "help" or "?"
-[23:19:11] [Server thread/INFO] [OverLast]: Stored 64 biome temperatures.
-[23:19:11] [Server thread/INFO] [OverLast]: Loaded world data. Current season is SUMMER and we are 3 days into this season.
-[23:19:11] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:19:11] [Server thread/INFO] [FML]: Unloading dimension 1
-[23:20:17] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[23:20:17] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[23:20:17] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[23:20:17] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[23:20:17] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[23:20:17] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
-[23:20:17] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
-[23:20:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[23:20:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:48141] logged in with entity id 362 at (-49.34519794768315, 100.0, 378.2977806321724)
-[23:20:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
-[23:20:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/362, l='world', x=-49.35, y=100.00, z=378.30] connected. Sending ping
-[23:21:34] [Server thread/INFO] [OverLast]: Saving data to disk.
-[23:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 1.
-[23:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unfortunately, the north camp was captured again, but luckily, they had an additional holy place to jump from buildings.
-[23:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
-[23:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:22:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:22:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Assimilated Human
-[23:22:20] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
-[23:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:22:40] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:22:52] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:22:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
-[23:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:23:52] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Villager
-[23:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:24:10] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:24:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
-[23:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
-[23:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:24:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:25:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
-[23:25:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:25:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Mangler
-[23:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:25:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:26:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Mangler
-[23:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:26:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:26:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:26:33] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:26:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
-[23:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
-[23:28:24] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
-[23:29:33] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:29:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
-[23:29:59] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
-[23:30:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:30:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
-[23:30:14] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
-[23:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
-[23:31:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:parrot that already exists with UUID e0103505-62c7-402d-970d-ee50925bf078
-[23:31:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:parrot that already exists with UUID e0103505-62c7-402d-970d-ee50925bf078
-[23:32:45] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
-[23:32:48] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
-[23:33:11] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
-[23:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
-[23:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
-[23:34:18] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Light Bomber
-[23:35:17] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[23:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Zombie Miner
-[23:35:22] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
-[23:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
-[23:36:15] [Server thread/INFO] [OverLast]: Saving data to disk.
-[23:36:15] [Server thread/INFO] [OverLast]: Rain is on the way in 8243 ticks.
-[23:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 2.
-[23:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Turn off the radio ? It can't be closed! Follow the electromagnetic wave and beg me to close!
-[23:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
-[23:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
-[23:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Light Bomber
-[23:36:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
-[23:37:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
-[23:37:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
-[23:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
-[23:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
-[23:46:58] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:00:01] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1095265
  scent state 1
  active 0
  danger 240
@@ -575,8 +12,592 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:46:59] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:00:03] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1096315
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[00:00:05] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1097353
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was killed by magic
+[00:00:06] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[00:00:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[00:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
+[00:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[00:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[00:00:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage I
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage II
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.srparasites.lurecomponent1
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Assimilated Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Villager
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Buglin
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower2.poppy
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.sulphur
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.leather
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Villager
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Primitive Vermin
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.apple
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Villager
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.apple
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage I
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.apple
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Villager
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.scent.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Armor Stand
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.apple
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower2.poppy
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Adapted Summoner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.srparasites.assimilated_flesh
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedtrunk
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage II
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed GeoGlitchKick
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage IV
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Enderman
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage II
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed GeoGlitchKick
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedtrunk
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedrubble
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.jungle
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Rupter
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Enderman
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedtrunk
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.srparasites.infestedstain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Villager
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.scent.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.srparasites.lurecomponent1
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Light Bomber
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage I
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Experience Orb
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.jungle
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Parrot
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Adapted Reeker
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower1.dandelion
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Buglin
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Seizer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Villager
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage I
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Buglin
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Farmer
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Beckon Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage III
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Incomplete Form
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Assimilated Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.techguns.heavycloth
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Remain
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie Miner
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.scent.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.reeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.reeds
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Dispatcher Stage II
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Feral Human
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cow
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.srparasites.salivaball.name
+[00:01:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
+[00:01:03] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[00:03:42] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:43] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
  scent state 1
  active 0
  danger 240
@@ -589,8 +610,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:00] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:03:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
  scent state 1
  active 0
  danger 240
@@ -603,8 +624,78 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:06] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:03:45] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 60
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:46] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 80
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:47] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 100
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:48] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 120
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:49] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 140
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:50] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
  scent state 1
  active 0
  danger 240
@@ -617,8 +708,582 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:31] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:03:51] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 180
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:52] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 200
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:53] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 220
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:54] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 240
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:55] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 260
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:56] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 280
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:57] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 300
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:58] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 320
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:03:59] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 340
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:00] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 360
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:04] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 440
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:05] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 460
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:06] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 480
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:07] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 500
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:08] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 520
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:09] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 540
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:10] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 560
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:11] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 580
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:04:13] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1200004
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 620
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:10] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 0
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:11] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:12] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 40
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:13] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 60
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:14] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 80
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:15] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 100
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:16] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 120
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:28] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 360
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:29] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 380
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:30] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 400
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:31] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 420
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:32] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 440
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:33] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 460
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:34] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 480
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:35] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 500
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:36] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 520
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:37] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 540
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 560
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:39] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 580
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 600
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:41] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 620
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:42] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 640
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:43] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -631,8 +1296,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:32] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:07:44] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -645,8 +1310,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:33] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:07:45] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -659,8 +1324,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:34] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:07:46] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -673,8 +1338,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:35] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:07:47] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -687,8 +1352,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:36] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:07:48] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -701,8 +1366,8 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:37] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
- id 727912
+[00:07:49] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
  scent state 1
  active 0
  danger 240
@@ -715,4 +1380,101 @@ java.lang.NullPointerException: null
  min max mob 2 5
  loop 103
  fail 0
-[23:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[00:07:50] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 800
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:51] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 820
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:52] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 840
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:53] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 860
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:54] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 880
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:55] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 900
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
+[00:07:56] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 1292174
+ scent state 1
+ active 0
+ danger 240
+ delay 0
+ total life 1200
+ current life 920
+ targetScent is null false
+ level 6
+ targetScent name class net.minecraft.entity.player.EntityPlayerMP
+ min max mob 2 5
+ loop 103
+ fail 0
