@@ -1108,6 +1108,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedgreataxe": {
+    "criteria": {
+      "advtwistedgreataxe": "2025-09-01 01:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-23 03:23:18 +0000"
