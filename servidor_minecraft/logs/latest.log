@@ -2322,3 +2322,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [15:56:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
 [15:56:27] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
 [15:58:14] [Netty Epoll Server IO #7/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Carry On, CreativeCore, LLibrary, MrCrayfish's Gun Mod, Netherite (1.12.2), Parasites Addon : OverLast, Player Revive, SRP: Combat Addon (by NoCube), SRP: Nests Addon (by NoCube), SRP: Survival Addon (by NoCube), Scape and Run Parasites, SecurityCraft, Simple Tomb, Techguns, Traveler's Backpack]
+[16:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
+[16:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[16:02:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[16:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[16:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Enderman
