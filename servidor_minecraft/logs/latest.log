@@ -1478,3 +1478,10 @@
  min max mob 2 5
  loop 103
  fail 0
+[00:10:55] [Server thread/INFO] [OverLast]: Saving data to disk.
+[00:10:55] [Server thread/INFO] [OverLast]: Rain is on the way in 8023 ticks.
+[00:10:55] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 9233 ticks.
+[00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 1.
+[00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wake dafaq up samora, we've gott a city to burn!
+[00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
+[00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
