@@ -1,373 +1,214 @@
-[01:25:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:25:50] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[01:25:50] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[01:25:50] [main/INFO] [FML]: Searching /workspaces/modjava/servidor_minecraft/./mods for mods
-[01:25:50] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.jar
-[01:25:50] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:25:50] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[01:25:50] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[01:25:50] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[01:25:50] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
-[01:25:50] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:25:50] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[01:25:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[01:25:50] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/modjava/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.10.jar Service=LaunchWrapper Env=SERVER
-[01:25:50] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[01:25:50] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[01:25:50] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:25:50] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[01:25:50] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[01:25:50] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[01:25:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
-[01:25:51] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
-[01:25:51] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[01:25:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:25:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[01:25:52] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1473b8c0
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:25:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:25:52] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:25:52] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[01:25:52] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[01:25:52] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[01:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[01:25:56] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[01:25:56] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[01:25:56] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[01:25:56] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[01:25:56] [Server thread/INFO] [FML]: Searching /workspaces/modjava/servidor_minecraft/./mods for mods
-[01:25:57] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10
-[01:25:57] [Server thread/WARN] [FML]: Mod simpletomb is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.0
-[01:25:57] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
-[01:25:57] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[01:25:58] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, techguns_core, securitycraft, carryon, creativecore, cgm, waila, jei, journeymap, netherite1_12_2, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, simpletomb, srparasites, techguns, travelersbackpack, llibrary] at CLIENT
-[01:25:58] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, techguns_core, securitycraft, carryon, creativecore, cgm, waila, jei, journeymap, netherite1_12_2, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, simpletomb, srparasites, techguns, travelersbackpack, llibrary] at SERVER
-[01:25:58] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[01:25:58] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[01:25:59] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[01:25:59] [Server thread/INFO] [FML]: Found 1482 ObjectHolder annotations
-[01:25:59] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[01:25:59] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[01:25:59] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[01:25:59] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[01:25:59] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/tombstone-fork/trunk/1.12/update.json
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[01:26:00] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[01:26:00] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[01:26:00] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[01:26:00] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[01:26:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `simpletomb:` for name `tombstone`, expected `simpletomb`. This could be a intended override, but in most cases indicates a broken mod.
-[01:26:01] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[01:26:01] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[01:26:01] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[01:26:01] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[01:26:01] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[01:26:01] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[01:26:02] [Server thread/INFO] [FML]: Applying holder lookups
-[01:26:02] [Server thread/INFO] [FML]: Holder lookups applied
-[01:26:02] [Server thread/INFO] [FML]: Applying holder lookups
-[01:26:02] [Server thread/INFO] [FML]: Holder lookups applied
-[01:26:02] [Server thread/INFO] [FML]: Applying holder lookups
-[01:26:02] [Server thread/INFO] [FML]: Holder lookups applied
-[01:26:02] [Server thread/INFO] [FML]: Applying holder lookups
-[01:26:02] [Server thread/INFO] [FML]: Holder lookups applied
-[01:26:02] [Server thread/INFO] [FML]: Injecting itemstacks
-[01:26:02] [Server thread/INFO] [FML]: Itemstack injection complete
-[01:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[01:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[01:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[01:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[01:26:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[01:26:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:26:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[01:26:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:26:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:26:02] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
-com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$getIngredient$0(CraftingHelper.java:152) ~[CraftingHelper.class:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:150) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[01:26:02] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
-com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[01:26:02] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
-com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[01:26:02] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
-com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[01:26:02] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
-com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[01:26:02] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
-com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
-	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_462]
-	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[01:26:03] [Server thread/INFO] [FML]: Applying holder lookups
-[01:26:03] [Server thread/INFO] [FML]: Holder lookups applied
-[01:26:03] [Server thread/INFO] [FML]: Injecting itemstacks
-[01:26:03] [Server thread/INFO] [FML]: Itemstack injection complete
-[01:26:03] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[01:26:03] [Server thread/INFO] [Waila]: Starting Waila...
-[01:26:03] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[01:26:03] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[01:26:03] [Server thread/INFO] [Waila]: Registering plugins...
-[01:26:03] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[01:26:03] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[01:26:03] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[01:26:03] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
-[01:26:03] [Server thread/INFO] [Waila]: Starting Waila took 32.35 ms
-[01:26:03] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 25 mods
-[01:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[01:26:03] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[01:26:04] [Server thread/INFO] [FML]: Applying holder lookups
-[01:26:04] [Server thread/INFO] [FML]: Holder lookups applied
-[01:26:04] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@373d1437)
-[01:26:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 549 advancements
-[01:26:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@373d1437)
-[01:26:04] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@373d1437)
-[01:26:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[01:26:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
-[01:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.215s)! For help, type "help" or "?"
-[01:26:06] [Server thread/INFO] [OverLast]: Stored 64 biome temperatures.
-[01:26:06] [Server thread/INFO] [OverLast]: Loaded world data. Current season is WINTER and we are 2 days into this season.
-[01:26:06] [Server thread/INFO] [FML]: Unloading dimension -1
-[01:26:06] [Server thread/INFO] [FML]: Unloading dimension 1
-[01:27:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[01:27:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[01:27:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[01:27:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[01:27:08] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:27:08] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
-[01:27:08] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[01:27:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:27:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:50063] logged in with entity id 227 at (-137.6614871472575, 67.0, 483.2446634530042)
-[01:27:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
-[01:27:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/227, l='world', x=-137.66, y=67.00, z=483.24] connected. Sending ping
-[01:28:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick was kicked for floating too long!
-[01:28:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Flying is not enabled on this server
-[01:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
-[01:29:47] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[01:29:47] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
-[01:29:47] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
-[01:29:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:29:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:51437] logged in with entity id 27033 at (-52.9609403342679, 98.39294542858116, 390.2911426460262)
-[01:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
-[01:29:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/27033, l='world', x=-52.96, y=98.39, z=390.29] connected. Sending ping
-[01:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
-[01:32:05] [Server thread/INFO] [OverLast]: Saving data to disk.
-[01:32:05] [Server thread/INFO] [OverLast]: Rain is on the way in 4609 ticks.
-[01:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
-[01:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Five more minutes to sleep, five more minutes, five more minutes, five more minutes, five more minutes, five more minutes.
-[01:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter is also called the parasite season, but we are ready for those thing, right?
-[01:52:05] [Server thread/INFO] [OverLast]: Saving data to disk.
-[01:52:05] [Server thread/INFO] [OverLast]: Rain is on the way in 6915 ticks.
-[01:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
-[01:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
-[01:53:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
-[01:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[02:23:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:23:28] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:23:28] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:23:28] [main/INFO] [FML]: Searching /workspaces/modjava/servidor_minecraft/./mods for mods
+[02:23:28] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.jar
+[02:23:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:23:28] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:23:28] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[02:23:28] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[02:23:28] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[02:23:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:23:28] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[02:23:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[02:23:28] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/modjava/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.10.jar Service=LaunchWrapper Env=SERVER
+[02:23:28] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[02:23:28] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[02:23:28] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:23:28] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[02:23:28] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[02:23:28] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[02:23:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[02:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[02:23:30] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[02:23:30] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[02:23:30] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1473b8c0
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:23:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:23:30] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:23:30] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[02:23:31] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:23:34] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:23:34] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:23:34] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:23:34] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:23:34] [Server thread/INFO] [FML]: Searching /workspaces/modjava/servidor_minecraft/./mods for mods
+[02:23:35] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10
+[02:23:35] [Server thread/WARN] [FML]: Mod simpletomb is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.0
+[02:23:35] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
+[02:23:35] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:23:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, techguns_core, securitycraft, carryon, creativecore, cgm, waila, jei, journeymap, netherite1_12_2, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, simpletomb, srparasites, techguns, travelersbackpack, llibrary] at CLIENT
+[02:23:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, techguns_core, securitycraft, carryon, creativecore, cgm, waila, jei, journeymap, netherite1_12_2, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, simpletomb, srparasites, techguns, travelersbackpack, llibrary] at SERVER
+[02:23:36] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[02:23:36] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[02:23:37] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:23:37] [Server thread/INFO] [FML]: Found 1482 ObjectHolder annotations
+[02:23:37] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:23:37] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:23:37] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:23:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:23:37] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/tombstone-fork/trunk/1.12/update.json
+[02:23:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[02:23:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[02:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[02:23:39] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[02:23:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `simpletomb:` for name `tombstone`, expected `simpletomb`. This could be a intended override, but in most cases indicates a broken mod.
+[02:23:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[02:23:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[02:23:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[02:23:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[02:23:39] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[02:23:39] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[02:23:40] [Server thread/INFO] [FML]: Applying holder lookups
+[02:23:40] [Server thread/INFO] [FML]: Holder lookups applied
+[02:23:40] [Server thread/INFO] [FML]: Applying holder lookups
+[02:23:40] [Server thread/INFO] [FML]: Holder lookups applied
+[02:23:40] [Server thread/INFO] [FML]: Applying holder lookups
+[02:23:40] [Server thread/INFO] [FML]: Holder lookups applied
+[02:23:40] [Server thread/INFO] [FML]: Applying holder lookups
+[02:23:40] [Server thread/INFO] [FML]: Holder lookups applied
+[02:23:40] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:23:40] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:23:40] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:23:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
+[02:23:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[02:23:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
+[02:23:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:23:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:23:40] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[02:23:40] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:23:40] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
