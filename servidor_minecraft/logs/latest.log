@@ -349,3 +349,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [15:21:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:53457] logged in with entity id 251 at (-153.35582398239455, 58.51552093836492, 514.8777325594675)
 [15:21:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
 [15:21:59] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/251, l='world', x=-153.36, y=58.52, z=514.88] connected. Sending ping
+[15:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[15:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[15:34:53] [Server thread/INFO] [OverLast]: Saving data to disk.
+[15:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 1.
+[15:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
