@@ -1485,3 +1485,16 @@
 [00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wake dafaq up samora, we've gott a city to burn!
 [00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
 [00:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
+[00:22:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[00:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[00:24:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick was kicked for floating too long!
+[00:24:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Flying is not enabled on this server
+[00:24:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[00:25:04] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:25:04] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[00:25:04] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[00:25:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:25:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:51029] logged in with entity id 1743949 at (-116.03968807948999, 107.51565257968383, 421.12434307860406)
+[00:25:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[00:25:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/1743949, l='world', x=-116.04, y=107.52, z=421.12] connected. Sending ping
+[00:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
